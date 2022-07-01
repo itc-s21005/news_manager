@@ -1,4 +1,4 @@
-package jp.ac.it_college.std.s21005.new_manager.news_manager
+package jp.ac.it_college.std.s21005.news_manager
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
